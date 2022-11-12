@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 import static java.lang.Runtime.getRuntime;
 
 /**
- * Created by Srinivas Budha on 9/24/2018.
+ * Created by Bhargav on 9/24/2018.
  */
 public class GurukulaApplication {
 
