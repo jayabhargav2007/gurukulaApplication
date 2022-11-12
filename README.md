@@ -61,7 +61,6 @@ class tells JUnit to kick off Cucumber.
 ## Test Result (View the reports)
 Serenity BDD has one of the best reporting and the test reports are generated every time we execute the tests.
 
-I have added sample test results here in the repository (https://github.com/srinivasbudh/GurukulaApplicationAutomation/tree/master/Final%20report%20After%20execution)
 
 When the project is cloned into Local reporting of test results can be seen if we open **_`index.html`_** from Final report after execution folder.
 
