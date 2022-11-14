@@ -5,7 +5,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
 /**
- * Created by Srinivas Budha on 9/24/2018.
+ * Created by Bhargav on 9/24/2018.
  */
 public class ResetPasswordPage extends BasePage {
 
