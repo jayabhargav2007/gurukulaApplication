@@ -9,7 +9,7 @@ import net.thucydides.core.annotations.Steps;
 import static org.junit.Assert.assertEquals;
 
 /**
- * Created by Srinivas budha on 9/23/2018.
+ * Created by Bhargav on 9/23/2018.
  */
 public class HomePageStepDefinitions {
     @Steps
